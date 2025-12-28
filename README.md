@@ -1,4 +1,5 @@
-# Hello, I'm RYAN.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F761&width=435&lines=Hello%2C+my+name's+Ryan!)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/ryan-kim-5a5056342"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an active-duty U.S. Army soldier with a passion for IT, networking, and cybersecurity. My journey blends hands-on military experience with academic knowledge in IT and business, as well as personal study in cybersecurity. 
